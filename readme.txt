@@ -15,3 +15,4 @@ go build
 go test -v
 new
 new2
+m
